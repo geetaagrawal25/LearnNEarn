@@ -34,9 +34,9 @@ a pass to enter a tech event which is paid to general public).
 
  Clone the repo and run npm install.
 
- git clone https://github.com/geetaagrawal25/LearnNearn
+ `git clone https://github.com/geetaagrawal25/LearnNearn`
 
- Run npm install
+ Run `npm install`
 
- Run npm start
+ Run `npm start`
  
