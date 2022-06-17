@@ -19,7 +19,8 @@ gate pass for future tech events. (This is subjected to the partnership the lear
 other third parties like Linux foundation, Polkadot, Cousera etc., the idea is to use this NFT token as
 a pass to enter a tech event which is paid to general public).
 
-Clone the repo and run npm install.
+ Clone the repo and run npm install.
+
  git clone https://github.com/geetaagrawal25/LearnNearn
 
  Run npm install
